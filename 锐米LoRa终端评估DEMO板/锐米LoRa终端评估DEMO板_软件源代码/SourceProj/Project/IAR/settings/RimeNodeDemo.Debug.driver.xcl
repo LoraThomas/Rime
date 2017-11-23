@@ -1,0 +1,17 @@
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 7.3\stm8\config\ddf\iostm8l151c8.ddf" 
+
+"-d" 
+
+"stlink" 
+
+"--mcuname" 
+
+"STM8L151C8" 
+
+"--verify_download" 
+
+
+
+
